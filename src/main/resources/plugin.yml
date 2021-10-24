@@ -1,0 +1,9 @@
+name: 'Gifts'
+version: "${version}"
+main: me.zote.gifts.Gifts
+api-version: 1.17
+prefix: Gift
+authors: [ TheAmazingZote ]
+depend:
+  - 'HolographicDisplays'
+description: A secret
